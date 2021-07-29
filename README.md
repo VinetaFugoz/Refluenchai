@@ -1,4 +1,1 @@
-### Olá! Eu sou Victor Queiroz
-
-- 🌱 Estudando Kotlin
-- 😄 Pronomes: Ele/Dele
+## Olá! Eu sou Victor Queiroz
