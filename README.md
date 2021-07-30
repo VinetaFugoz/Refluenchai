@@ -1,7 +1,7 @@
 <div>
   <a href="https://github.com/Refluenchai">
-  <img class="itmargin" height="180em" src="https://github-readme-stats.vercel.app/api?username=Refluenchai&hide_title=true&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Refluenchai&layout=default&langs_count=7&theme=algolia&hide_title=true"/>
+  <img class="itmargin" height="180em" src="https://github-readme-stats.vercel.app/api?username=Refluenchai&hide_title=true&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&bg_color=0d1117&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Refluenchai&layout=compact&langs_count=7&theme=algolia&hide_title=true&bg_color=0d1117&hide_border=true""/>
 </div>
 
 <div style="display: inline_block"><br>
