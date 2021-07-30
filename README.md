@@ -4,7 +4,6 @@
 <div>
   <a href="https://github.com/Refluenchai">
   <img class="itmargin" height="180em" src="https://github-readme-stats.vercel.app/api?username=Refluenchai&hide_title=true&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-    <img width="148" height="128" align="right" alt="SONIC"src="https://64.media.tumblr.com/tumblr_m1tqfkfGgh1rnep7do1_500.gifv">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Refluenchai&layout=compact&langs_count=7&theme=default&hide_title=true"/>
 </div>
 
@@ -14,6 +13,7 @@
   <img align="center" alt="ANDROID" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="KOTLIN" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img width="148" height="128" align="right" alt="SONIC"src="https://64.media.tumblr.com/tumblr_m1tqfkfGgh1rnep7do1_500.gifv">
 </div>
 
 ##
