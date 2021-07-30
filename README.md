@@ -1,6 +1,6 @@
 <div>
   <a href="https://github.com/Refluenchai">
-  <img align="left" cheight="180em" src="https://github-readme-stats.vercel.app/api?username=Refluenchai&hide_title=true&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&bg_color=000d1117&hide_border=true">
+  <img align="left" cheight="180em" src="https://github-readme-stats.vercel.app/api?username=Refluenchai&hide_title=true&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&bg_color=00FFFFFF&hide_border=true">
   <div style="display: inline_block"><br>
     <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -9,7 +9,7 @@
     <img align="center" alt="JAVA" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="KOTLIN" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   </div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Refluenchai&layout=compact&langs_count=7&theme=algolia&hide_title=true&bg_color=000d1117&hide_border=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Refluenchai&layout=compact&langs_count=7&theme=algolia&hide_title=true&bg_color=transparent&hide_border=true">
     
 </div>
   
