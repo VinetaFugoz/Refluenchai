@@ -14,10 +14,3 @@
 </div>
   
 <div><img width="148" height="128" align="right" alt="SONIC"src="https://64.media.tumblr.com/tumblr_m1tqfkfGgh1rnep7do1_500.gifv"></div>
-
-
-## 
-  
-<div> 
-  <a href="https://www.linkedin.com/in/viicthorqs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"       target="_blank"></a> 
-</div>
